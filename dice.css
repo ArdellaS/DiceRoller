@@ -1,0 +1,17 @@
+.dice{
+    height: 50px;
+    width: 50px;
+}
+.mainText{
+    display: flex;
+    flex-direction: center;
+    justify-content: space-around;
+    height: 100px;
+    top: 25px;
+}
+.roll{
+    display: flex;
+    flex-flow: row;
+    flex-direction: center;
+    justify-content: space-evenly;
+}
