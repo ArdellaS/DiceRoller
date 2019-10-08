@@ -31,8 +31,6 @@
 
 #number{
     display: flex;
-    position: relative;
-    left: 50%;
     flex-flow: row;
     flex-direction: center;
     justify-content: space-evenly;
@@ -40,12 +38,7 @@
     font-size: 100px;
 }
 
-.Main{
-    position: absolute;
-    top: 50px;
-    left: 50px;
 
-}
 
 body{
     background-image: url('https://wallpaperplay.com/walls/full/c/4/8/217879.jpg');
