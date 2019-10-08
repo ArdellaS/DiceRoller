@@ -2,6 +2,12 @@
     height: 50px;
     width: 50px;
 }
+
+.blank{
+    height: 50px;
+    width: 50px;
+}
+
 .mainText{
     display: flex;
     flex-direction: center;
@@ -11,7 +17,14 @@
 }
 .roll{
     display: flex;
+
+    top: 10px;
+}
+.diceBox{
+    display: flex;
+    position: relative;
     flex-flow: row;
     flex-direction: center;
     justify-content: space-evenly;
+
 }
